@@ -1,5 +1,6 @@
 # FashionGAN
-GAN - Generative Adversarial Networks
+**GAN - Generative Adversarial Networks**
+
 The basic agenda of a GAN is to identify patterns in input data, and produce examples resembling the original dataset.
 
 Obviously considered as unsupervised learning models (as we implicitly do not point out the features, instead it just identifies patterns), but can also be used for semi-supervised learning.
