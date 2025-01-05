@@ -12,4 +12,6 @@ Discriminator is used as a binary classifier to distinguish between real and fak
 
 The goal of the discriminator is to classify real and fake data correctly, whereas the goal of the generator is to fool the discriminator into thinking the data generated is real. 
 
-Tese 2 neural networks are made to compete with each other until generator is able to produce realistic data.
+These 2 neural networks are made to compete with each other until generator is able to produce realistic data.
+
+If the epochs are increased to 2000, you will be able to see better results and understand the potential of GANs.
